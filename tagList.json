@@ -1,0 +1,94 @@
+[
+	{
+		"tag": "推荐",
+		"tag_en": "Hot"
+	},
+	{
+		"tag": "Web3/资讯",
+		"tag_en": "Web3-Info"
+	},
+	{
+		"tag": "Web3/工具",
+		"tag_en": "Web3-Tool"
+	},
+	{
+		"tag": "Web3/Reading",
+		"tag_en": "Web3-Reading"
+	},
+	{
+		"tag": "Web3/博客",
+		"tag_en": "Web3-Blog"
+	},
+	{
+		"tag": "Web3/视频",
+		"tag_en": "Web3-Video"
+	},
+	{
+		"tag": "Web3/BTC",
+		"tag_en": "Web3-BTC"
+	},
+	{
+		"tag": "Web3/ETH",
+		"tag_en": "Web3-ETH"
+	},
+	{
+		"tag": "技术/人文",
+		"tag_en": "CS-Arch-Product"
+	},
+	{
+		"tag": "技术/后端",
+		"tag_en": "CS-Backend"
+	},
+	{
+		"tag": "技术/前端",
+		"tag_en": "CS-Frontend"
+	},
+	{
+		"tag": "技术/安全",
+		"tag_en": "CS-Security"
+	},
+	{
+		"tag": "技术/人工智能",
+		"tag_en": "CS-AI"
+	},
+	{
+		"tag": "技术/算法",
+		"tag_en": "CS-Algorithm"
+	},
+	{
+		"tag": "技术/资讯",
+		"tag_en": "CS-Info"
+	},
+	{
+		"tag": "技术/在线工具",
+		"tag_en": "CS-Tool"
+	},
+	{
+		"tag": "资讯",
+		"tag_en": "Info"
+	},
+	{
+		"tag": "投资",
+		"tag_en": "Invest"
+	},
+	{
+		"tag": "电子书",
+		"tag_en": "Ebook"
+	},
+	{
+		"tag": "软件",
+		"tag_en": "Software"
+	},
+	{
+		"tag": "图片",
+		"tag_en": "Img"
+	},
+	{
+		"tag": "文档",
+		"tag_en": "Doc"
+	},
+	{
+		"tag": "导航",
+		"tag_en": "Nav"
+	}
+]
